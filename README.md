@@ -32,10 +32,10 @@ Welcome to our 30-minute workshop focused on "Exploring Open-Source LLM: Medical
 Before starting the workshop, please download the "Medical Transcriptions" data from [Kaggle](https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions). This dataset, scraped from mtsamples.com, will be used in the Jupyter notebooks during the workshop.
 
 ## Jupyter Notebooks
-The workshop includes three Jupyter notebooks:
-1. **llm_cpu.ipynb**: Can be run on a standard laptop. Demonstrates basic usage of Llama2-70B on CPU.
-2. **llm_gpu.ipynb**: Optimized for running on Google Colab with a T4 GPU. Focuses on utilizing GPU acceleration.
-3. **adv_llm_gpu.ipynb**: Intended for cloud environments like GCP. Requires a machine with specifications like n1-standard-16 (16 vCPUs, 60 GB RAM) and 4 NVIDIA T4 GPUs for advanced processing and analysis.
+The workshop includes three Jupyter notebooks, which you can access and view directly in this repository:
+1. [**llm_cpu.ipynb**](llm_cpu.ipynb): Can be run on a standard laptop. Demonstrates basic usage of Llama2-70B on CPU.
+2. [**llm_gpu.ipynb**](llm_gpu.ipynb): Optimized for running on Google Colab with a T4 GPU. Focuses on utilizing GPU acceleration.
+3. [**adv_llm_gpu.ipynb**](adv_llm_gpu.ipynb): Intended for cloud environments like GCP. Requires a machine with specifications like n1-standard-16 (16 vCPUs, 60 GB RAM) and 4 NVIDIA T4 GPUs for advanced processing and analysis.
 
 ## Installation and Setup
 For participants who wish to follow along with the practical demonstration, ensure you have the necessary environment set up on your machine. Detailed instructions are provided in the [installation guide](/installation.md).
