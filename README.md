@@ -3,13 +3,13 @@
 ## Workshop Overview
 Join our 30-minute workshop to explore the specialized use of Llama2-70B.
 
-### What You Will Learn
 - **Specialized LLM Application**: Learn how a fine-tuned Llama2-70B model is applied in medical record analysis.
 - **Practical Demonstration**: Experience live setup and usage of this LLM (CPU and GPU instance), analyzing different scenarios to utilize LLM (getting keywords, topic modeling).
+
 Ideal for IT professionals, this workshop underlines the importance of using fine-tuned LLM for specific industry needs.
 
 ## Data for the Workshop
-Before starting the workshop, please download the "Medical Transcriptions" data from [Kaggle](https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions). This dataset, scraped from mtsamples.com, will be used in the Jupyter notebooks during the workshop.
+Before starting the workshop, please download the "Medical Transcriptions" data from [Kaggle](https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions).
 
 ## Jupyter Notebooks
 The workshop includes three Jupyter notebooks, which you can access and view directly in this repository:
