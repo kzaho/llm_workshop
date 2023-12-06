@@ -15,7 +15,7 @@ Before starting the workshop, please download the "Medical Transcriptions" data 
 The workshop includes three Jupyter notebooks, which you can access and view directly in this repository:
 1. [**llm_cpu.ipynb**](llm_cpu.ipynb): Can be run on a standard laptop. Demonstrates basic usage of Llama2-70B on CPU.
 2. [**llm_gpu.ipynb**](llm_gpu.ipynb): Optimized for running on Google Colab with a T4 GPU. Focuses on utilizing GPU acceleration.
-3. [**adv_llm_gpu.ipynb**](adv_llm_gpu.ipynb): Intended for cloud environments like GCP. Requires a machine with specifications like n1-standard-16 (16 vCPUs, 60 GB RAM) and 4 NVIDIA T4 GPUs for advanced processing and analysis.
+3. [**adv_llm_gpu.ipynb**](adv_llm_gpu.ipynb): Intended for cloud environments like GCP. Requires a machine with specifications like n1-standard-16 (16 vCPUs, 60 GB RAM) and 4 NVIDIA T4 GPUs ($1,645 hourly, ~0.005$ per record) for advanced processing and analysis.
 
 ## License
 This project is open-sourced under the [MIT License](LICENSE).
